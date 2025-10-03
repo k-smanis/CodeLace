@@ -42,3 +42,6 @@ feat: implement /sum endpoint
 fix: correct response schema
 chore: finalize README
 ```
+
+## ⚙️ Installation Guide
+<i>This guide is under construction</i>...
